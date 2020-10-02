@@ -4,3 +4,6 @@
 [1001/112738.223:ERROR:file_io_win.cc(180)] CreateFile C:\Users\Layanne Cantanhede\AppData\Local\Google\Chrome\User Data\Crashpad\settings.dat: Acesso negado. (0x5)
 [1001/112738.226:ERROR:registration_protocol_win.cc(131)] TransactNamedPipe: O pipe foi finalizado. (0x6D)
 [1001/112738.227:ERROR:file_io_win.cc(180)] CreateFile C:\Users\Layanne Cantanhede\AppData\Local\Google\Chrome\User Data\Crashpad\settings.dat: Acesso negado. (0x5)
+[1002/090853.474:ERROR:file_io_win.cc(180)] CreateFile C:\Users\Layanne Cantanhede\AppData\Local\Google\Chrome\User Data\Crashpad\settings.dat: Acesso negado. (0x5)
+[1002/090853.485:ERROR:registration_protocol_win.cc(131)] TransactNamedPipe: O pipe foi finalizado. (0x6D)
+[1002/090853.486:ERROR:file_io_win.cc(180)] CreateFile C:\Users\Layanne Cantanhede\AppData\Local\Google\Chrome\User Data\Crashpad\settings.dat: Acesso negado. (0x5)
